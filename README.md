@@ -75,4 +75,46 @@ Occupancy % = DIVIDE([DBRN], [DSRN])
 Realisation % = DIVIDE([DURN], [DBRN])
 ```
 
+## 📘 What I Learned — Skills & Outcomes
+
+### 🔹 1. End-to-End Power BI Development
+- Imported, cleaned, and transformed data using Power Query  
+- Built a clean star-schema data model  
+- Developed DAX measures for operational and financial KPIs  
+- Designed an interactive, user-friendly dashboard  
+
+### 🔹 2. Hospitality Domain Understanding
+- Learned industry KPIs such as RevPAR, ADR, DSRN, DBRN, DURN  
+- Understood occupancy trends, realisation %, and cancellation patterns  
+- Analyzed booking behavior across platforms and room categories  
+
+### 🔹 3. Advanced DAX Skills
+- WoW% change calculations  
+- KPI ratio measures  
+- Time intelligence functions  
+- Context transition and filter manipulation  
+- Dynamic and reusable DAX patterns  
+
+### 🔹 4. Data Storytelling & Insights
+- Identified trends across weeks, cities, properties, and platforms  
+- Converted raw data into actionable insights  
+- Presented clear business recommendations supported by metrics  
+
+### 🔹 5. Dashboard UI/UX Design
+- Built a premium gold–black luxury theme using JSON  
+- Created modern KPI cards with Card (New) visuals  
+- Designed clean layouts, consistent spacing, and readable visuals  
+- Added tooltip pages for deeper exploration  
+- Used conditional formatting for better interpretation  
+
+### 🔹 6. Analytical Thinking
+- Improved problem-solving skills by connecting data to business outcomes  
+- Understood the business impact of cancellations, occupancy, and ADR  
+- Learned how to evaluate property-level performance  
+
+
+
+---
+
+These learnings strengthened my skills as a **Data Analyst**, especially in DAX, data modeling, and business domain understanding.
 
